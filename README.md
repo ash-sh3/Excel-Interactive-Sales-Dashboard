@@ -38,7 +38,7 @@
 
 ---
 
-<details>
+
 <summary><h2>📄 The Data Story: From Numbers to Narrative</h2></summary>
   
 A dashboard is most powerful when it tells a story. This tool is designed to guide users through a narrative of discovery, helping them uncover the "why" behind the numbers.
@@ -55,9 +55,9 @@ A dashboard is most powerful when it tells a story. This tool is designed to gui
   <p><strong>Observation:</strong> The dashboard revealed that our top sales rep, James Howard, consistently outperforms others by bundling 'Fresh Blend Coffee' with a 'Biscotti' add-on, a pattern not visible in any other rep's sales.</p>
   <p><strong>Actionable Strategy:</strong> This insight provides a ready-made sales playbook. We can now train the entire sales team on this "coffee and biscotti" bundling strategy to increase the Average Order Value (AOV) across the team.</p>
 </blockquote>
-</details>
 
-<details>
+
+
 <summary><h2>⚙️ Features & Functionality</h2></summary>
   
 This dashboard is built for intuitive interaction, allowing any user, regardless of technical skill, to explore the data freely.
@@ -68,9 +68,9 @@ This dashboard is built for intuitive interaction, allowing any user, regardless
   <li><strong>Granular Analysis Tables:</strong> Four key tables provide deeper insights into Top Products, Category Performance, Sales Rep Leaderboard, and Top Customer Activity.</li>
   <li><strong>Cohesive & Professional Design:</strong> A clean layout ensures that the focus remains on the insights, not on deciphering the charts.</li>
 </ul>
-</details>
 
-<details>
+
+
 <summary><h2>🛠️ Technical Skills Showcase</h2></summary>
   
 This project demonstrates proficiency in a range of data analysis and visualization techniques within Microsoft Excel.
@@ -83,9 +83,9 @@ This project demonstrates proficiency in a range of data analysis and visualizat
   <img src="https://img.shields.io/badge/Dashboard_Design_(UI/UX)-purple?style=for-the-badge" alt="Dashboard Design"/>
   <img src="https://img.shields.io/badge/Data_Storytelling-red?style=for-the-badge" alt="Data Storytelling"/>
 </p>
-</details>
 
-<details>
+
+
 <summary><h2>🚀 Future Enhancements</h2></summary>
 
 To further increase the strategic value of this dashboard, the following next steps could be implemented:
@@ -95,7 +95,7 @@ To further increase the strategic value of this dashboard, the following next st
   <li><strong>Incorporate Forecasting:</strong> Add a time-series forecasting module to predict sales for the upcoming quarter.</li>
   <li><strong>Customer Segmentation (RFM Analysis):</strong> Implement an RFM (Recency, Frequency, Monetary) model to segment customers for targeted marketing campaigns.</li>
 </ul>
-</details>
+
 
 ---
 
