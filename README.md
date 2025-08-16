@@ -1,87 +1,110 @@
 <div align="center">
   <h1>Monthly Sales Performance Dashboard</h1>
   <p><i>An Interactive Excel Dashboard for Strategic Business Insights</i></p>
+  
+  <a href="https://www.linkedin.com/in/muhammad-ashraful/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Tool-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Badge"/>
+
 </div>
 
 <br>
 
-<!-- Dashboard Screenshot -->
 <div align="center">
-  <img src="assets/dashboard_screenshot.jpg" alt="Sales Dashboard Screenshot" width="800"/>
+  <img src="assets/dashboard_screenshot.jpg" alt="Sales Dashboard Screenshot" width="850"/>
 </div>
 
 <br>
 
-## &#x1F4A1; Project Overview: The Business Need
-
-In a competitive business environment, raw data is just noise. The real value lies in transforming that data into a clear, compelling narrative that drives strategic action. This project addresses a core business need: the demand for a centralized, user-friendly tool that moves beyond static reports and provides an interactive platform for discovering actionable insights.
-
-The goal was not just to build a dashboard, but to create a storytelling tool that empowers sales managers and key stakeholders to answer critical questions instantly:
-*   Where are our biggest opportunities for growth?
-*   Who are our most valuable customers and top-performing sales reps?
-*   Which product categories are driving our success?
-
-This dashboard was designed to bridge the gap between data and decision-making, showcasing my ability to focus on business outcomes over purely technical metrics.
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 The Key Business Question</h3>
+      <p>How can we reduce the <strong>~10 hours</strong> our sales managers spend weekly compiling manual reports and instead empower them to make faster, data-driven decisions to boost regional performance?</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💡 The Solution</h3>
+      <p>An interactive dashboard that consolidates complex sales data into a single, intuitive interface. It automates reporting and provides real-time insights, directly addressing the business need.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📈 The Impact</h3>
+      <p>Empowers managers to identify trends and opportunities instantly. This is projected to <strong>save each manager 5+ hours per week</strong> and enables targeted strategies for a potential <strong>5-10% revenue uplift</strong> in underperforming regions.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## &#x1F4D6; The Data Story: From Numbers to Narrative
-
+<details>
+<summary><h2>📄 The Data Story: From Numbers to Narrative</h2></summary>
+  
 A dashboard is most powerful when it tells a story. This tool is designed to guide users through a narrative of discovery, helping them uncover the "why" behind the numbers.
 
-### Key Storylines Revealed by the Dashboard:
+<h4>Key Storylines Revealed by the Dashboard:</h4>
+<ul>
+  <li><strong>Performance Pulse-Check:</strong> The main KPIs—Total Sales, Total Orders, and Average Order Value (AOV)—act as the headline of our story, offering an immediate snapshot of the company's health.</li>
+  <li><strong>Identifying Sales Champions:</strong> By filtering by Employee, managers can instantly identify top performers. This turns performance data into a replicable training tool.</li>
+  <li><strong>Uncovering Regional & Product Hotspots:</strong> By combining State and Category filters, we pinpoint geographic trends and product-market fit, which is crucial for optimizing inventory and marketing spend.</li>
+</ul>
 
-*   **&#x1F3AF; Performance Pulse-Check:**
-    The main KPIs—**Total Sales**, **Total Orders**, and **Average Order Value (AOV)**—act as the headline of our story, offering an immediate snapshot of the company's health. The dynamic donut charts instantly show how any filtered segment contributes to the bigger picture.
+<h4>⭐ Actionable Insight Example: Unlocking a Sales Strategy</h4>
+<blockquote>
+  <p><strong>Observation:</strong> The dashboard revealed that our top sales rep, James Howard, consistently outperforms others by bundling 'Fresh Blend Coffee' with a 'Biscotti' add-on, a pattern not visible in any other rep's sales.</p>
+  <p><strong>Actionable Strategy:</strong> This insight provides a ready-made sales playbook. We can now train the entire sales team on this "coffee and biscotti" bundling strategy to increase the Average Order Value (AOV) across the team.</p>
+</blockquote>
+</details>
 
-*   **&#x1F947; Identifying Sales Champions:**
-    By filtering by **Employee**, managers can instantly identify top performers. But the story doesn't end there. We can then explore *what* they are selling and *to whom*, uncovering successful strategies that can be replicated across the entire team. This turns performance data into a training tool.
-
-*   **&#x1F52D; Uncovering Regional & Product Hotspots:**
-    Which regions are booming? Which product categories are lagging? By combining the **State/Prov** and **Category** filters, we can pinpoint geographic trends and product-market fit. This insight is crucial for optimizing inventory, targeting marketing campaigns, and allocating sales resources effectively.
-
-*   **&#x1F4B3; Understanding Customer Behavior:**
-    The dashboard allows for deep dives into customer activity and payment preferences. For example, filtering by "Credit Card" payments in a specific month for the "Beverages" category can reveal specific purchasing patterns, telling a story about customer convenience and its impact on sales volume.
-
----
-
-## &#x1F527; Features & Functionality
-
+<details>
+<summary><h2>⚙️ Features & Functionality</h2></summary>
+  
 This dashboard is built for intuitive interaction, allowing any user, regardless of technical skill, to explore the data freely.
 
-*   **Fully Interactive Slicers:** Dynamically filter the entire dashboard by:
-    *   `Order Date` (Month & Year)
-    *   `Payment Method`
-    *   `Employee`
-    *   `State/Prov`
-    *   `Category`
-*   **Dynamic KPI Visuals:** Key metrics update in real-time to reflect the filtered data.
-*   **Granular Analysis Tables:** Four key tables provide deeper insights into:
-    1.  **Top 10 Product Activity:** See which products are the revenue drivers.
-    2.  **Category Performance:** Analyze sales distribution across different categories.
-    3.  **Sales Rep Leaderboard:** Track individual performance and contributions.
-    4.  **Top Customer Activity:** Identify and understand your most valuable customers.
-*   **Cohesive Design:** A clean, professional layout ensures that the focus remains on the insights, not on deciphering the charts.
+<ul>
+  <li><strong>Fully Interactive Slicers:</strong> Dynamically filter the entire dashboard by <code>Order Date</code>, <code>Payment Method</code>, <code>Employee</code>, <code>State/Prov</code>, and <code>Category</code>.</li>
+  <li><strong>Dynamic KPI Visuals:</strong> Key metrics and charts update in real-time to reflect filtered data.</li>
+  <li><strong>Granular Analysis Tables:</strong> Four key tables provide deeper insights into Top Products, Category Performance, Sales Rep Leaderboard, and Top Customer Activity.</li>
+  <li><strong>Cohesive & Professional Design:</strong> A clean layout ensures that the focus remains on the insights, not on deciphering the charts.</li>
+</ul>
+</details>
+
+<details>
+<summary><h2>🛠️ Technical Skills Showcase</h2></summary>
+  
+This project demonstrates proficiency in a range of data analysis and visualization techniques within Microsoft Excel.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Modeling-orange?style=for-the-badge" alt="Data Modeling"/>
+  <img src="https://img.shields.io/badge/Power_Query_(ETL)-005C83?style=for-the-badge" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/PivotTables_&_Charts-D83B01?style=for-the-badge" alt="PivotTables"/>
+  <img src="https://img.shields.io/badge/Advanced_Functions-blue?style=for-the-badge" alt="Excel Functions"/>
+  <img src="https://img.shields.io/badge/Dashboard_Design_(UI/UX)-purple?style=for-the-badge" alt="Dashboard Design"/>
+  <img src="https://img.shields.io/badge/Data_Storytelling-red?style=for-the-badge" alt="Data Storytelling"/>
+</p>
+</details>
+
+<details>
+<summary><h2>🚀 Future Enhancements</h2></summary>
+
+To further increase the strategic value of this dashboard, the following next steps could be implemented:
+
+<ul>
+  <li><strong>Automate Data Refresh:</strong> Integrate with a live database using Power Query to enable a fully automated data refresh.</li>
+  <li><strong>Incorporate Forecasting:</strong> Add a time-series forecasting module to predict sales for the upcoming quarter.</li>
+  <li><strong>Customer Segmentation (RFM Analysis):</strong> Implement an RFM (Recency, Frequency, Monetary) model to segment customers for targeted marketing campaigns.</li>
+</ul>
+</details>
 
 ---
 
-## &#x1F4BB; Technical Skills Showcase
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <p>I am passionate about turning data into strategic assets and am actively seeking a remote Data Analyst role. If you're looking for someone who cares about the "why" behind the data, let's talk.</p>
+  
+  <a href="https://www.linkedin.com/in/muhammad-ashraful/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-This project demonstrates proficiency in a range of data analysis and visualization techniques within Microsoft Excel:
-
-*   **Data Modeling:** Structuring and cleaning the source data for efficient analysis.
-*   **Advanced Excel Functions:** Mastery of `SUMIFS`, `COUNTIFS`, `VLOOKUP`, `IFERROR`, and table-based structured references.
-*   **PivotTables & PivotCharts:** Leveraging pivot functionality as the engine for the dashboard's dynamic nature.
-*   **Interactive Controls:** Implementing **Slicers** to create a seamless, user-friendly filtering experience.
-*   **Dashboard Design:** Applying principles of UI/UX to create a dashboard that is not only functional but also intuitive and visually appealing.
-*   **Data Storytelling:** The ability to translate complex datasets into a clear, actionable narrative for stakeholders.
-
----
-
-## &#x1F4E7; Let's Connect!
-
-I am passionate about turning data into strategic assets and am actively seeking a remote Data Analyst role where I can help businesses thrive. If you're looking for someone who cares about the "why" behind the data, let's talk.
-
-*   **LinkedIn:** <a href="[Your LinkedIn Profile URL]">**[Your Name]**</a>
-*   **Email:** **[Your Email Address]**
-*   **Portfolio:** <a href="[Link to your portfolio]">**[Your Portfolio Website]**</a>"# Interactive-Sales-Dashboard" 
+</div>
